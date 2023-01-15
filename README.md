@@ -1,2 +1,3 @@
 # predicting-hotel-reviewer-scores-with-Supervised-Machine-Learning
 Supervised machine learning can be used to predict hotel reviewer scores.
+The process would involve collecting data on hotel reviews, such as the reviewer's rating, the type of hotel, the location, the amenities, and any other relevant information. This data would then be used to train a machine learning model, such as a Linear regression, GradientBoosting Regressor and RandomForest Regressor to predict the reviewer's score. The model would be tested on a separate set of data to ensure that it is accurate and reliable. Once the model is trained, it can be used to predict the reviewer's score for any given hotel.
